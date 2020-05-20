@@ -2,3 +2,4 @@
 ### Information Commands
 * `git status` - status of current git repo
 * `git config -l` - List configuration of repo
+* `git log --oneline` Compact log listing
