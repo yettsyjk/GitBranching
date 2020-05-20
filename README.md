@@ -5,6 +5,7 @@
 * `git log` - log of commits in this repo
 * `git log --oneline` - Compact log listing
 * `git branch` - Displays branch status
+*  `got checkout nameOfBranch`
 
 ### Basic Commands
 * `git init` - initializes a repo in current working directory
@@ -13,3 +14,8 @@
 * `git commit ` - commits staged data, enter message in vi editor
 * `git status`
 * `git push`
+
+
+### Branching Commands
+* `git branch branchName` - Create branch `branchName`
+* `git checkout branchName` - Go to branch `branchName`
